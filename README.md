@@ -15,5 +15,5 @@ This project implements a clean ETL pipeline and data analysis for the `social_a
 pip install -r requirements.txt
 
 # Open and run the notebook
-cd notebooks
-jupyter notebook social_ads_etl_analysis.ipynb
+cd notebook
+jupyter notebook code.ipynb
